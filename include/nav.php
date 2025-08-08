@@ -8,6 +8,9 @@
         <li><a href="/contents/basic/php_form-filter.php">Form, filter</a></li>
         <li><a href="/contents/basic/php_fileupload.php">Form File Upload</a></li>
         <li><a href="/contents/basic/php_array.php">Array</a></li>
+        <li><a href="/contents/basic/php_json.php">JSON</a></li>
+        <li><a href="/contents/basic/php_file.php">file_get/put_contents</a></li>
+        <li><a href="/contents/basic/php_try_catch.php">try catch</a></li>
       </ul>
     </li>
     <li style="position:relative;">

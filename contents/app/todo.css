@@ -67,7 +67,7 @@ li.todo-item{
 li.completed {
     text-decoration: line-through;
     color: #888;
-    background-color: #e9ecef;
+    background-color: #6c87fd;
 }
 li .todo-text {
     flex-grow: 1;

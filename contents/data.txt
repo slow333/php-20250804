@@ -1,0 +1,2 @@
+<h2>file_exists로 검증 해서 애러처리 후 내용</h2>
+<p>file_get_contents로 불러온 내용</p>
